@@ -1,7 +1,7 @@
 # Kumusta! 👋
 `// That means "hello" in Tagalog!`
 
-!["Adrienne Tacke speaking at NEJS Conf"](https://blog.adrienne.io/content/images/2020/01/nejs.jpg)
+![Adrienne Tacke speaking at NEJS Conf](https://europeancloudconference.com/wp-content/uploads/events/2020/08/1.png)
 
 
 I'm a Filipina software engineer based in 🌵 Las Vegas.
