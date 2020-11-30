@@ -17,10 +17,12 @@ Thank you for stopping by!
 ## Bonus Content:
 
 ### 🌱 I’m currently learning: Game Development with Unity
+You can watch me learn in public on the official [MongoDB Twitch Channel](https://www.twitch.tv/mongodb). My colleague and I stream every other Wednesday at 10:30am Pacific Time and we're trying to build a 2D Fall Guys tribute!
 
 ### 📫 How to reach me:
 
 - [Twitter](https://twitter.com/AdrienneTacke)
+- [Twitch (Gaming/Programming)](https://twitch.tv/yo__adrienne) (hoping to stream some Cyberpunk 2077 and [Advent of Code 2020](https://adventofcode.com/)!)
 - [Instagram](https://www.instagram.com/adriennetacke/)
 - [Email](mailto:kumusta@adrienne.io)
 
