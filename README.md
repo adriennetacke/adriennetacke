@@ -7,7 +7,7 @@
   </a>
   <p align='right'>
     <a href="https://blog.adrienne.io/" aria-label="Adrienne Tacke's Blog Link">Blog</a> |
-    <a href="https://www.manning.com/books/looks-good-to-me" aria-label="Code Review Book Link">LGTM Book (Manning MEAP)</a>a> |
+    <a href="https://www.manning.com/books/looks-good-to-me" aria-label="Code Review Book Link">LGTM Book (Manning MEAP)</a> |
     <a href="https://www.linkedin.com/learning/instructors/adrienne-braganza-tacke" aria-label="Adrienne's LinkedIn Learning Instructor Profile Link">Courses</a> | 
     <a href="https://www.twitter.com/AdrienneTacke" aria-label="Adrienne Tacke's Twitter Profile Link">Twitter</a> | 
     <a href="https://www.youtube.com/channel/UC6633v_kpTVH6jAS0LazlpA" aria-label="Adrienne Tacke's YouTube Profile Link">YouTube</a> | 
