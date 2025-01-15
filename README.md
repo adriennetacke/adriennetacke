@@ -17,7 +17,7 @@
 
 I'm a Filipina software engineer based in 🌵 Las Vegas. 
 
-Currently, I'm writing [another book](https://www.manning.com/books/looks-good-to-me) -- this time, it's all about code reviews. It should <i>really</i> be required reading for all software developers, in my opinion. I also [speak at conferences](https://www.youtube.com/playlist?list=PL826S_VlomvJNnm7ho1Ym3xamnr7-p0zS), [create courses](https://www.linkedin.com/learning/instructors/adrienne-braganza-tacke), and occasionally [blog](https://blog.adrienne.io/). During the day, I'm also a Senior Developer Advocate for [Cisco DevNet](https://developer.cisco.com/). 
+My [book on code reviews](https://www.manning.com/books/looks-good-to-me) is published! Check it out. It should <i>really</i> be required reading for all software developers, in my opinion. I also [speak at conferences](https://www.youtube.com/playlist?list=PL826S_VlomvJNnm7ho1Ym3xamnr7-p0zS), [create courses](https://www.linkedin.com/learning/instructors/adrienne-braganza-tacke), and occasionally [blog](https://blog.adrienne.io/). During the day, I'm also a Senior Developer Advocate for [Viam](https://www.viam.com/). 
 
 See [where I'm speaking next](https://sessionize.com/adriennetacke/), check out my [first published book](https://www.amazon.com/Coding-Kids-Python-Awesome-Activities/dp/1641521759), or see my [past experience](https://www.linkedin.com/in/adriennetacke/details/experience/). Thanks for stopping by ✌🏼
 
